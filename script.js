@@ -1,0 +1,1 @@
+console.log('Simran Perfume website loaded');
